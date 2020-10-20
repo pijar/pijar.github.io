@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.2.0.0-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="960pt" height="540pt" viewBox="0 0 960 540">
+ <defs>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="158.442" y2="0" gradientTransform="translate(732.284 244.275)">
+   <stop offset="0" stop-color="#e72d4d"/>
+   <stop offset="1" stop-color="#506daa"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="119.749" y2="0" gradientTransform="translate(589.615 244.275)">
+   <stop offset="0" stop-color="#f18500"/>
+   <stop offset="1" stop-color="#ef2c50"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="158.436" y2="0" gradientTransform="translate(406.712 244.275)">
+   <stop offset="0" stop-color="#fcd647"/>
+   <stop offset="1" stop-color="#f18500"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="158.436" y2="0" gradientTransform="translate(251.126 244.275)">
+   <stop offset="0" stop-color="#c2d52e"/>
+   <stop offset="1" stop-color="#fcd93a"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_4" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="158.435" y2="0" gradientTransform="translate(93.291 244.275)">
+   <stop offset="0" stop-color="#26abaa"/>
+   <stop offset="1" stop-color="#c2d330"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_5" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="46.786" y2="0" gradientTransform="translate(81.565 270.872) rotate(90) skewX(89.9995)">
+   <stop offset="0" stop-color="#e72d4d"/>
+   <stop offset="1" stop-color="#506daa"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_6" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="705.941" y2="-705.94" gradientTransform="translate(1160.46 474.362)">
+   <stop offset="0" stop-color="#f0f7fa"/>
+   <stop offset="7.12499991059303E-02" stop-color="#eff6f9"/>
+   <stop offset="0.132500007748604" stop-color="#eff6f9"/>
+   <stop offset="0.193750008940697" stop-color="#eef5f8"/>
+   <stop offset="0.254999995231628" stop-color="#ecf3f7"/>
+   <stop offset="0.316249996423721" stop-color="#eaf1f5"/>
+   <stop offset="0.377499997615814" stop-color="#e8eff3"/>
+   <stop offset="0.438749998807907" stop-color="#e5ecf1"/>
+   <stop offset="0.5" stop-color="#e1e9ee"/>
+   <stop offset="0.561250030994415" stop-color="#dee6ec"/>
+   <stop offset="0.622500002384186" stop-color="#dae2e8"/>
+   <stop offset="0.683750033378601" stop-color="#d5dee5"/>
+   <stop offset="0.745000004768372" stop-color="#d0d9e1"/>
+   <stop offset="0.806250035762787" stop-color="#cbd4dd"/>
+   <stop offset="0.867500007152557" stop-color="#c5ced8"/>
+   <stop offset="0.928750038146973" stop-color="#bfc9d4"/>
+   <stop offset="1" stop-color="#b9c3cf"/>
+  </linearGradient>
+ </defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -540)">
+   <g id="Layer 1">
+    <path d="M 878.435,188.275 C 835.558,188.275 814.377,214.566 793.896,239.992 C 774.579,263.969 756.335,286.616 719.991,286.616 L 719.991,300.275 C 762.871,300.275 784.051,273.985 804.532,248.56 C 823.848,224.582 842.093,201.934 878.435,201.934 L 878.435,188.275 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient)"/>
+    <path d="M 562.298,188.275 L 562.298,201.934 C 598.642,201.934 616.886,224.582 636.203,248.56 C 656.684,273.985 677.865,300.275 720.741,300.275 L 720.741,286.616 C 684.4,286.616 666.155,263.969 646.839,239.992 C 626.358,214.566 605.178,188.275 562.298,188.275 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_1)"/>
+    <path d="M 565.148,188.275 C 522.271,188.275 501.093,214.566 480.613,239.992 C 461.297,263.969 443.053,286.616 406.712,286.616 L 406.712,300.275 C 449.589,300.275 470.768,273.985 491.249,248.56 C 510.563,224.582 528.808,201.934 565.148,201.934 L 565.148,188.275 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_2)"/>
+    <path d="M 251.126,188.275 L 251.126,201.934 C 287.467,201.934 305.711,224.582 325.027,248.56 C 345.506,273.985 366.685,300.275 409.562,300.275 L 409.562,286.616 C 373.221,286.616 354.977,263.969 335.663,239.992 C 315.182,214.566 294.003,188.275 251.126,188.275 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_3)"/>
+    <path d="M 251.726,188.275 C 208.849,188.275 187.67,214.566 167.189,239.992 C 147.874,263.969 129.631,286.616 93.291,286.616 L 93.291,300.275 C 136.168,300.275 157.345,273.985 177.826,248.56 C 197.141,224.582 215.384,201.934 251.726,201.934 L 251.726,188.275 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_4)"/>
+    <path d="M 81.565,345.412 L 81.565,235.858" fill="none" stroke="#5f67a1" stroke-width="12.626" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 1719.82,540 L 969.822,540 L 969.822,40 L 1719.82,40 L 1719.82,540 Z" stroke="none" stroke-width="1" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_6)"/>
+   </g>
+  </g>
+ </g>
+</svg>

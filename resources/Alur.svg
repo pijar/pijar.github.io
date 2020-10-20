@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.2.0.0-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="960pt" height="540pt" viewBox="0 0 960 540">
+ <defs>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="158.442" y2="0" gradientTransform="translate(701.821 214)">
+   <stop offset="0" stop-color="#e72d4d"/>
+   <stop offset="1" stop-color="#506daa"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="119.749" y2="0" gradientTransform="translate(558.402 214)">
+   <stop offset="0" stop-color="#f18500"/>
+   <stop offset="1" stop-color="#ef2c50"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="158.436" y2="0" gradientTransform="translate(372.649 214)">
+   <stop offset="0" stop-color="#fcd647"/>
+   <stop offset="1" stop-color="#f18500"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="158.436" y2="0" gradientTransform="translate(214.213 214)">
+   <stop offset="0" stop-color="#c2d52e"/>
+   <stop offset="1" stop-color="#fcd93a"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_4" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="158.435" y2="0" gradientTransform="translate(55.778 214)">
+   <stop offset="0" stop-color="#26abaa"/>
+   <stop offset="1" stop-color="#c2d330"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_5" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="83.209" y2="-86.117" gradientTransform="translate(584.289 181.519)">
+   <stop offset="0" stop-color="#f18500"/>
+   <stop offset="1" stop-color="#ef2c50"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_6" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="114.652" y2="34.565" gradientTransform="translate(560.558 221.513)">
+   <stop offset="0" stop-color="#f18500"/>
+   <stop offset="1" stop-color="#ef2c50"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_7" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="154.737" y2="34.064" gradientTransform="translate(693.984 260.931)">
+   <stop offset="0" stop-color="#e72d4d"/>
+   <stop offset="1" stop-color="#506daa"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_8" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="46.786" y2="0" gradientTransform="translate(863.622 185.518) rotate(90) skewX(89.9995)">
+   <stop offset="0" stop-color="#e72d4d"/>
+   <stop offset="1" stop-color="#506daa"/>
+  </linearGradient>
+ </defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -540)">
+   <g id="Layer 1">
+    <path d="M 847.972,158 C 805.095,158 783.914,184.291 763.433,209.717 C 744.116,233.694 725.872,256.341 689.528,256.341 L 689.528,270 C 732.408,270 753.588,243.71 774.069,218.285 C 793.385,194.307 811.63,171.659 847.972,171.659 L 847.972,158 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient)"/>
+    <path d="M 531.085,158 L 531.085,171.659 C 567.429,171.659 585.673,194.307 604.99,218.285 C 625.471,243.71 646.652,270 689.528,270 L 689.528,256.341 C 653.187,256.341 634.942,233.694 615.626,209.717 C 595.145,184.291 573.965,158 531.085,158 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_1)"/>
+    <path d="M 531.085,158 C 488.208,158 467.03,184.291 446.55,209.717 C 427.234,233.694 408.99,256.341 372.649,256.341 L 372.649,270 C 415.526,270 436.705,243.71 457.186,218.285 C 476.5,194.307 494.745,171.659 531.085,171.659 L 531.085,158 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_2)"/>
+    <path d="M 214.213,158 L 214.213,171.659 C 250.554,171.659 268.798,194.307 288.114,218.285 C 308.593,243.71 329.772,270 372.649,270 L 372.649,256.341 C 336.308,256.341 318.064,233.694 298.75,209.717 C 278.269,184.291 257.09,158 214.213,158 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_3)"/>
+    <path d="M 214.213,158 C 171.336,158 150.157,184.291 129.676,209.717 C 110.361,233.694 92.118,256.341 55.778,256.341 L 55.778,270 C 98.655,270 119.832,243.71 140.313,218.285 C 159.628,194.307 177.871,171.659 214.213,171.659 L 214.213,158 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_4)"/>
+    <path d="M 525.036,162.251 L 534.858,171.742 C 560.112,145.606 589.076,148.222 619.743,150.993 C 652.258,153.931 685.883,156.966 715.676,126.132 L 705.853,116.641 C 680.601,142.776 651.637,140.16 620.972,137.391 C 588.455,134.452 554.831,131.414 525.036,162.251 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_5)"/>
+    <path d="M 550.568,160.012 L 546.625,173.09 C 581.422,183.58 592.353,210.53 603.926,239.063 C 616.197,269.318 628.888,300.602 669.939,312.978 L 673.882,299.901 C 639.087,289.411 628.156,262.462 616.583,233.93 C 604.313,203.674 591.623,172.389 550.568,160.012 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_6)"/>
+    <path d="M 848.757,237.662 C 806.883,228.444 780.545,249.566 755.076,269.995 C 731.056,289.258 708.369,307.452 672.875,299.638 L 669.939,312.978 C 711.816,322.197 738.153,301.075 763.622,280.649 C 787.641,261.384 810.329,243.188 845.821,251.002 L 848.757,237.662 Z" stroke-linejoin="miter" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_7)"/>
+    <path d="M 863.622,260.058 L 863.622,150.504" fill="none" stroke="#5f67a1" stroke-width="12.626" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="79.8403193612775"/>
+   </g>
+  </g>
+ </g>
+</svg>
