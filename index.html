@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Simple Saola Scorm</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="description" content="">
+	<meta name="keywords" content="interaktiv">
+	<meta name="author" content="IMS">
+	<meta name="viewport" content="initial-scale=1.0">
+	<style>
+		html {
+			height: 100%;
+		}
+		body {
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+	</style>
+	
+	<link rel="stylesheet" type="text/css" href="resources/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="resources/jquery-ui.css">
+	<link rel="stylesheet" type="text/css" href="resources/sticky.css">
+	<script type="text/javascript" src="slplayer.js"></script>
+	<script type="text/javascript" src="resources/scormwrapper.js"></script>
+	<script type="text/javascript" src="resources/jquery-1.12.4.min.js"></script>
+	<script type="text/javascript" src="resources/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="resources/jquery.ui.rotatable.js"></script>
+	<script type="text/javascript" src="resources/jquery.ui.touch-punch.min.js"></script>
+	<script type="text/javascript" src="resources/visualizer.js"></script>
+</head>
+<body>
+	<div id="HRhCMwin" style="position: relative; height: 100%;"></div>
+	<script type = "text/javascript">
+	(function(Saola) {
+	var li = {"color":"#2090e6","density":9,"diameter":60,"range":1,"shape":"oval","speed":1};
+	Saola.openDoc('scorm-mining-samples.js', 'HRhCMwin', {paused:false, preloaderOptions: li, center: 'both', autofit: true});})(AtomiSaola);
+	</script>
+</body>
+</html>
